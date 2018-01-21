@@ -55,4 +55,4 @@ const DefaultAddressField: React.SFC<DefaultAddressFieldProps> = ({ withProps })
   />
 );
 
-export { DefaultAddressField as AddressFieldFactory };
+export { DefaultAddressField as AddressFieldFactoryn };
